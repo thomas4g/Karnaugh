@@ -1,0 +1,40 @@
+body {
+    font-family:"Arial", sans-serif;
+}
+#wrap {
+    background:black;
+    min-width:400px;
+    width:100%;
+    min-height:600px;
+    height:600px;
+    overflow:auto;
+}
+#ExpressionDiv {
+    background:green;
+    width:100%;
+    min-height:20px;
+    height:10%;
+}
+#TableDiv {
+    background:red;
+    float:left;
+    width:25%;
+    height:100%;
+}
+#MapDiv {
+    background:blue;
+    float:left;
+    width:75%;
+    height:50%;
+}
+#CircuitDiv {
+    background:orange;
+    float:left;
+    width:75%;
+    height:50%;
+}
+#ReductionDiv {
+    background:teal;
+    width:100%;
+    min-height:20px;
+}
